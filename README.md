@@ -22,5 +22,11 @@ All commits done must respect this file structure in order to keep every organiz
 
 ## Contact ##
 
-If you have any suggestions or comments on the project, feel free to contact me on my personal email: [vijaythinks@gmail.com](mailto:vijaythinks@gmail.com) or on an external forum thread: 
+If you have any suggestions or comments on the project, feel free to contact me on my personal email: [vijaythinks@gmail.com](mailto:vijaythinks@gmail.com) or on an external forum thread: Thread
+
+## Download and Packaging ##
+
+I feel like people shouldn't be forced to re-download a package just because one little image has been added. This is why I used GitHub; You can download individual files when they are released and marked off the future directory. 
+
+Major releases will be in increments of 50, but the addition to the official website [P4FICO](http://www.shadyorange.com/tools/p4fico) will be continuous.
 
