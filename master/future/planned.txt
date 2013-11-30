@@ -1,0 +1,113 @@
+
+	* [ ]game_asset_mcom
+
+	* [ ]game_asset_defender
+
+	* [ ]game_asset_attacker
+
+	* [ ]game_asset_neutralized
+
+	* [ ]game_asset_mcom_armed
+
+	* [ ]game_asset_mcom_alt
+
+	* [ ]game_asset_mcom_alt_armed
+
+	* [ ]game_asset_squads
+
+	* [ ]game_asset_squads_defend
+
+	* [ ]game_asset_squads_attack
+
+	* [ ]game_asset_type_charges
+
+	* [ ]game_asset_type_charges_booster
+
+	* [ ]game_asset_type_lmg
+
+	* [ ]game_asset_type_ar
+
+	* [ ]game_asset_type_sr
+
+	* [ ]game_asset_type_sr_semi
+
+	* [ ]game_asset_type_sr_auto
+
+	* [ ]game_asset_type_shotgun
+
+	* [ ]game_asset_type_smg
+
+	* [ ]game_asset_type_defib
+
+	* [ ]game_asset_type_repair
+
+	* [ ]game_asset_type_motion
+
+	* [ ]game_asset_type_rr
+
+	* [ ]game_asset_type_medic
+
+	* [ ]game_asset_type_ammo
+
+	* [ ]game_asset_type_at
+
+	* [ ]game_asset_type_burst
+
+	* [ ]game_asset_type_burst_booster
+
+	* [ ]game_asset_type_mortar
+
+	* [ ]game_asset_type_mortar_booster
+
+	* [ ]game_asset_flag
+
+	* [ ]game_asset_flag_neutralized
+
+	* [ ]game_asset_flag_attacker
+
+	* [ ]game_asset_flag_defender
+
+	* [ ]game_asset_flag_alt
+
+	* [ ]game_asset_enemy
+
+	* [ ]game_asset_friendly
+
+
+	* [ ]info_sv_kick
+
+	* [ ]info_sv_ban
+
+	* [ ]info_sv_vip
+
+	* [ ]info_sv_switch
+
+	* [ ]info_sv_report
+
+	* [ ]info_sv_cc
+
+	* [ ]info_sv_edit
+
+	* [ ]info_sv_bftools
+
+	* [ ]info_sv_t4g
+
+	* [ ]info_sv_ggc
+
+	* [ ]info_sv_pb
+
+	* [ ]info_sv_server
+
+	* [ ]info_sv_server_edit
+
+	* [ ]info_sv_server_alert
+
+	* [ ]info_sv_server_disabled
+
+	* [ ]info_sv_stop
+
+	* [ ]info_sv_start
+
+	* [ ]info_sv_pause
+
+	* [ ]info_sv_rcon
