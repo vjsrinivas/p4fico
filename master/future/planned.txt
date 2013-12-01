@@ -69,9 +69,9 @@
 
 	* [ ]game_asset_flag_alt
 
-	* [ ]game_asset_enemy
+	* [x]game_asset_enemy
 
-	* [ ]game_asset_friendly
+	* [x]game_asset_friendly
 
 
 	* [ ]info_sv_kick
