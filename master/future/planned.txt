@@ -13,7 +13,7 @@
 
 	* [ ]game_asset_mcom_alt_armed
 
-	* [ ]game_asset_squads
+	* [x]game_asset_squads
 
 	* [ ]game_asset_squads_defend
 
