@@ -1,11 +1,11 @@
 
 	* [ ]game_asset_mcom
 
-	* [ ]game_asset_defender
+	* [x]game_asset_defender
 
-	* [ ]game_asset_attacker
+	* [x]game_asset_attacker
 
-	* [ ]game_asset_neutralized
+	* [x]game_asset_neutralized
 
 	* [ ]game_asset_mcom_armed
 
@@ -89,6 +89,8 @@
 	* [ ]info_sv_edit
 
 	* [ ]info_sv_bftools
+	
+	* [ ]info_sv_bfblacklist
 
 	* [ ]info_sv_t4g
 
