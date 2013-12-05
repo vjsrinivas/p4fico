@@ -73,6 +73,47 @@
 
 	* [x]game_asset_friendly
 
+	* [ ]game_asset_m1a2
+
+	* [ ]game_asset_m1a2b
+
+	* [ ]game_asset_t90
+
+	* [ ]game_asset_t90b
+
+	* [ ]game_asset_zw11
+
+	* [ ]game_asset_mh6
+
+	* [ ]game_asset_ah64
+
+	* [ ]game_asset_mil28
+
+	* [ ]game_asset_uh60
+
+	* [ ]game_asset_mil17
+
+	* [ ]game_asset_lmgus
+
+	* [ ]game_asset_lmgru
+
+	* [ ]game_hud_t90
+
+	* [ ]game_hud_m1a2
+
+	* [ ]game_hud_mh6
+
+	* [ ]game_hud_zw11
+
+	* [ ]game_hud_uh60
+
+	* [ ]game_hud_mil17
+
+	* [ ]game_hud_mil28
+
+	* [ ]game_hud_ah64
+
+
 
 	* [ ]info_sv_kick
 
