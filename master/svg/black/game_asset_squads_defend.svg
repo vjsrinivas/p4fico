@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="game_asset_squads.svg">
+   sodipodi:docname="game_asset_squads_defend.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="66.010282"
-     inkscape:cy="67.73514"
+     inkscape:zoom="11.313709"
+     inkscape:cx="68.210238"
+     inkscape:cy="79.269332"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,6 +77,10 @@
        orientation="0,1"
        position="16.78125,78"
        id="guide3816" />
+    <sodipodi:guide
+       orientation="-0.70710638,0.70710718"
+       position="27.5625,75.1875"
+       id="guide3141" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -86,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,5 +110,15 @@
        d="m 50.066861,972.03325 -6.972617,18.69201 c -3.841236,10.28464 -7.029202,18.82034 -7.079478,18.96274 -0.02787,0.078 -0.04732,0.1226 -0.05343,0.1622 -0.0019,0.013 -1.97e-4,0.045 0,0.054 -0.977555,2.0945 -1.549471,4.4245 -1.549471,6.8979 0,8.8633 7.031682,16.0411 15.681711,16.0411 8.650025,0 15.654995,-7.1778 15.654995,-16.0411 0,-2.4734 -0.574916,-4.8034 -1.54947,-6.8979 2.37e-4,-0.01 -0.02433,-0.039 -0.02671,-0.054 -0.0066,-0.038 -6.3e-5,-0.087 -0.02671,-0.1622 -0.05027,-0.1424 -3.238244,-8.6782 -7.079477,-18.96274 l -6.999338,-18.69201 z m -0.02671,42.82125 c 2.685281,0 4.862132,2.1073 4.862132,4.7068 0,2.5996 -2.176851,4.7069 -4.862132,4.7069 -2.685281,0 -4.862132,-2.1073 -4.862132,-4.7069 0,-2.5995 2.176851,-4.7068 4.862132,-4.7068 z"
        id="path2982"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:none"
+       d="m 21.994362,978.54811 0,-4.19086 4.234524,0 c 2.328984,0 4.234519,0.007 4.234519,0.0155 0,0.009 -1.905535,1.89419 -4.234519,4.19087 l -4.234522,4.17579 0,-4.19087 z"
+       id="path3148"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3186"
+       d="m 73.80866,974.358 4.190855,-0.006 0.0065,4.23452 c 0.0036,2.32898 -4.8e-4,4.23452 -0.009,4.23454 -0.009,10e-6 -1.897122,-1.90262 -4.197385,-4.22806 l -4.182306,-4.22809 4.190865,-0.006 z"
+       style="fill:#000000;stroke:none" />
   </g>
 </svg>
