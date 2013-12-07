@@ -13,11 +13,11 @@
 
 	* [ ]game_asset_mcom_alt_armed
 
-	* [ ]game_asset_squads
+	* [x]game_asset_squads
 
-	* [ ]game_asset_squads_defend
+	* [x]game_asset_squads_defend
 
-	* [ ]game_asset_squads_attack
+	* [x]game_asset_squads_attack
 
 	* [ ]game_asset_type_charges
 
@@ -25,7 +25,7 @@
 
 	* [ ]game_asset_type_lmg
 
-	* [ ]game_asset_type_ar
+	* [x]game_asset_type_ar
 
 	* [ ]game_asset_type_sr
 
@@ -43,7 +43,7 @@
 
 	* [ ]game_asset_type_motion
 
-	* [ ]game_asset_type_rr
+	* [x]game_asset_type_rr
 
 	* [ ]game_asset_type_medic
 
@@ -97,9 +97,9 @@
 
 	* [ ]game_asset_lmgru
 
-	* [ ]game_hud_t90
+	* [x]game_hud_t90
 
-	* [ ]game_hud_m1a2
+	* [x]game_hud_m1a2
 
 	* [ ]game_hud_mh6
 
