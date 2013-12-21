@@ -129,11 +129,13 @@
 
 	* [ ]info_sv_edit
 
-	* [ ]info_sv_bftools
+	* [x]info_sv_bftools
 	
 	* [ ]info_sv_bfblacklist
 
-	* [ ]info_sv_t4g
+	* [x]info_sv_t4g
+
+	* [ ]info_sv_t4g_alt
 
 	* [ ]info_sv_ggc
 
