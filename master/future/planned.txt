@@ -127,7 +127,7 @@
 
 	* [ ]info_sv_cc
 
-	* [ ]info_sv_edit
+	* [x]info_sv_edit
 
 	* [x]info_sv_bftools
 	
@@ -141,18 +141,24 @@
 
 	* [ ]info_sv_pb
 
-	* [ ]info_sv_server
+	* [x]info_sv_server
 
-	* [ ]info_sv_server_edit
+	* [x]info_sv_server_edit
 
-	* [ ]info_sv_server_alert
+	* [x]info_sv_server_alert
 
-	* [ ]info_sv_server_disabled
+	* [x]info_sv_server_disabled
 
-	* [ ]info_sv_stop
+	* [x]info_sv_stop
 
 	* [ ]info_sv_start
 
 	* [ ]info_sv_pause
 
 	* [ ]info_sv_rcon
+
+	* [x]info_sv_dash
+
+	* [x]info_sv_gear
+
+	* [x]info_sv_ranked

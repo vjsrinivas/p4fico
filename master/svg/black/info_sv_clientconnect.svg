@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 6">
+   sodipodi:docname="info_sv_clientconnect.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="55.979731"
-     inkscape:cy="29.768799"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="66.620886"
+     inkscape:cy="12.176263"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -69,6 +69,18 @@
        orientation="1,0"
        position="50,50"
        id="guide3005" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="50,64.414063"
+       id="guide3004" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="50.453174,70.953747"
+       id="guide3008" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="43.882813,49.867188"
+       id="guide3010" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -88,10 +100,27 @@
      id="layer1"
      transform="translate(0,-952.36218)">
     <path
-       style="fill:#000000"
-       d="m 10,1042.3622 40,-16.0447 c 0,0 40,16.0447 40,16.0447 -14.303936,-26.9976 -27.007674,-55.8208 -40,-80.00002 -13.96901,25.96723 -26.835013,53.27942 -40,80.00002 z"
-       id="path3011"
+       style="fill:#000000;stroke:none"
+       d="M 43.882813,29.046253 37.402124,42.002059 10.09375,42 10,50 c 11.465094,0 27.220372,0 33.883121,0 L 50,38.153782 l 10.671353,-0.0091 -0.0065,-9.098476 z"
+       transform="translate(0,952.36218)"
+       id="rect2989"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3019"
+       d="m 56.123179,1023.3175 6.480688,-12.9558 27.308374,0 0.09375,-8 c -11.465094,0 -27.220372,0 -33.883121,0 l -6.116879,11.8462 -10.671353,0.01 0.0065,9.0985 z"
+       style="fill:#000000;stroke:none" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:none"
+       id="path3021"
+       sodipodi:cx="50.0625"
+       sodipodi:cy="50.1875"
+       sodipodi:rx="2.53125"
+       sodipodi:ry="2.625"
+       d="m 52.59375,50.1875 a 2.53125,2.625 0 1 1 -5.0625,0 2.53125,2.625 0 1 1 5.0625,0 z"
+       transform="matrix(0.98765432,0,0,0.95238095,0.5555556,954.56456)" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 6">
+   sodipodi:docname="info_sv_server.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="55.979731"
-     inkscape:cy="29.768799"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-14.011856"
+     inkscape:cy="-21.200268"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
        id="guide2986" />
     <sodipodi:guide
        orientation="0,1"
-       position="5.6696429,10"
+       position="128.66269,11.067758"
        id="guide2988" />
     <sodipodi:guide
        orientation="1,0"
@@ -69,6 +69,14 @@
        orientation="1,0"
        position="50,50"
        id="guide3005" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="79.519532,46.054688"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="87.890625,39.347656"
+       id="guide3015" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -88,10 +96,9 @@
      id="layer1"
      transform="translate(0,-952.36218)">
     <path
-       style="fill:#000000"
-       d="m 10,1042.3622 40,-16.0447 c 0,0 40,16.0447 40,16.0447 -14.303936,-26.9976 -27.007674,-55.8208 -40,-80.00002 -13.96901,25.96723 -26.835013,53.27942 -40,80.00002 z"
-       id="path3011"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:#000000;stroke:none;opacity:1"
+       d="M 73.34375 17.3125 L 53.4375 37.21875 L 70.375 37.21875 L 81.8125 25.78125 L 73.34375 17.3125 z M 10 38 L 10 62 L 25.4375 62 L 28.625 62 L 29.5625 61.0625 L 29.40625 61.0625 L 10.84375 61.0625 L 10.84375 38.875 L 50.125 38.875 L 51.78125 38.875 L 52.65625 38 L 49.65625 38 L 10 38 z M 69.59375 38 L 68.71875 38.875 L 89.1875 38.875 L 89.1875 61.0625 L 48 61.0625 L 46.5625 61.0625 L 45.625 62 L 46.59375 62 L 90 62 L 90 38 L 70.8125 38 L 69.59375 38 z M 11.28125 39.28125 L 11.28125 60.65625 L 29.40625 60.65625 L 29.96875 60.65625 L 51.375 39.28125 L 50.125 39.28125 L 11.28125 39.28125 z M 68.3125 39.28125 L 46.96875 60.65625 L 48 60.65625 L 87.34375 60.65625 L 88.65625 60.65625 L 88.75 60.65625 L 88.75 39.28125 L 88.65625 39.28125 L 87.34375 39.28125 L 68.71875 39.28125 L 68.3125 39.28125 z M 79.59375 45.75 L 83.8125 50 L 79.53125 54.25 L 75.3125 50 L 79.59375 45.75 z M 75.75 50 C 77.846633 52.0239 77.860393 52.03485 79.53125 53.71875 C 81.635704 51.59475 81.42225 51.8113 83.25 50 L 75.75 50 z M 27.84375 62.78125 L 17.5 73.125 L 26 81.625 L 44.84375 62.78125 L 27.84375 62.78125 z "
+       transform="translate(0,952.36218)"
+       id="rect2989" />
   </g>
 </svg>

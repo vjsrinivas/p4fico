@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 6">
+   sodipodi:docname="info_sv_dash.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="55.979731"
-     inkscape:cy="29.768799"
+     inkscape:zoom="1"
+     inkscape:cx="123.33384"
+     inkscape:cy="-37.465068"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -69,6 +69,22 @@
        orientation="1,0"
        position="50,50"
        id="guide3005" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="12,88.578126"
+       id="guide2991" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="8.8593751,88"
+       id="guide2995" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="13.21875,12"
+       id="guide2997" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="88,88"
+       id="guide2999" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -88,10 +104,22 @@
      id="layer1"
      transform="translate(0,-952.36218)">
     <path
-       style="fill:#000000"
-       d="m 10,1042.3622 40,-16.0447 c 0,0 40,16.0447 40,16.0447 -14.303936,-26.9976 -27.007674,-55.8208 -40,-80.00002 -13.96901,25.96723 -26.835013,53.27942 -40,80.00002 z"
-       id="path3011"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:#000000;stroke:none"
+       d="M 10.40625 24 C 10.173656 24 10 24.173656 10 24.40625 L 10 68.4375 L 90 68.4375 L 90 24.40625 C 90 24.173656 89.826344 24 89.59375 24 L 10.40625 24 z M 12 26 L 88 26 L 13.53125 63.1875 L 88 63.25 L 88 64 L 12 64 L 12 26 z M 10 68.9375 L 10 69.90625 C 10 70.138844 10.173656 70.34375 10.40625 70.34375 L 89.59375 70.34375 C 89.826344 70.34375 90 70.138844 90 69.90625 L 90 68.9375 L 10 68.9375 z "
+       transform="translate(0,952.36218)"
+       id="rect2989" />
+    <rect
+       style="fill:#000000;stroke:none"
+       id="rect3009"
+       width="26"
+       height="3.875"
+       x="37.056164"
+       y="1024.2302"
+       ry="0.47195512" />
+    <path
+       style="fill:#000000;stroke:none"
+       d="M 16.625 30 L 16.625 34 L 20.625 34 L 20.625 30 L 16.625 30 z M 22.71875 30 L 22.71875 34 L 26.71875 34 L 26.71875 30 L 22.71875 30 z M 28.8125 30 L 28.8125 34 L 32.8125 34 L 32.8125 30 L 28.8125 30 z M 34.625 30 L 34.625 34 L 38.625 34 L 38.625 30 L 34.625 30 z M 40.71875 30 L 40.71875 34 L 44.71875 34 L 44.71875 30 L 40.71875 30 z M 46.8125 30 L 46.8125 34 L 50.8125 34 L 50.8125 30 L 46.8125 30 z M 16.625 36 L 16.625 40 L 20.625 40 L 20.625 36 L 16.625 36 z M 22.71875 36 L 22.71875 40 L 26.71875 40 L 26.71875 36 L 22.71875 36 z M 28.8125 36 L 28.8125 40 L 32.8125 40 L 32.8125 36 L 28.8125 36 z M 34.625 36 L 34.625 40 L 38.625 40 L 38.625 36 L 34.625 36 z M 40.71875 36 L 40.71875 40 L 44.71875 40 L 44.71875 36 L 40.71875 36 z M 46.8125 36 L 46.8125 40 L 50.8125 40 L 50.8125 36 L 46.8125 36 z M 16.625 42 L 16.625 46 L 20.625 46 L 20.625 42 L 16.625 42 z M 22.71875 42 L 22.71875 46 L 26.71875 46 L 26.71875 42 L 22.71875 42 z M 28.8125 42 L 28.8125 46 L 32.8125 46 L 32.8125 42 L 28.8125 42 z "
+       transform="translate(0,952.36218)"
+       id="rect3016" />
   </g>
 </svg>
